@@ -1,6 +1,5 @@
 package oj.likou;
 
-import com.sun.deploy.util.StringUtils;
 import junit.framework.TestCase;
 import org.junit.Test;
 

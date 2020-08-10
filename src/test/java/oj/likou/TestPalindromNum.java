@@ -1,7 +1,6 @@
 package oj.likou;
 
 
-import com.sun.org.apache.regexp.internal.RE;
 import junit.framework.TestCase;
 import org.junit.Test;
 
